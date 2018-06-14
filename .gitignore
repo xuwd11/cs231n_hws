@@ -121,3 +121,6 @@ bash.exe.stackdump
 
 #files for debugging
 debug.ipynb
+
+#dataset
+datasets/
