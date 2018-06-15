@@ -1,7 +1,7 @@
 ## CS231n: Convolutional Neural Networks for Visual Recognition ([Spring 2018](http://cs231n.stanford.edu/2018/))
 My solution to [assignments](https://github.com/cs231n/cs231n.github.io/tree/master/assignments/2018) in Stanford CS231n: Convolutional Neural Networks for Visual Recognition (Spring 2018).
 
-I would like to express my sincere gratitude and appreciation to all instructors and teaching assistants in CS231n for creating this wonderful course and making it freely available. Thanks for the awesome video lectures from Serena Yeung, Justin Johnson and Fei-Fei Li ([Spring 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv))!
+I would like to express my sincere gratitude and appreciation to all instructors and teaching assistants in CS231n for creating this wonderful course and making it freely available. Thanks for the fantastic video lectures given by Serena Yeung, Justin Johnson and Fei-Fei Li ([Spring 2017](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv))!
 
 #### [Assignment 1](http://cs231n.github.io/assignments2018/assignment1/): Image Classification, kNN, SVM, Softmax, Neural Network
 - Q1: k-Nearest Neighbor classifier ([**done**](https://github.com/xuwd11/cs231n_hws/blob/master/assignment1/knn.ipynb))
