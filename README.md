@@ -18,6 +18,6 @@ I would like to express my sincere gratitude and appreciation to all instructors
 #### [Assignment 3](http://cs231n.github.io/assignments2018/assignment3/): Image Captioning with Vanilla RNNs, Image Captioning with LSTMs, Network Visualization, Style Transfer, Generative Adversarial Networks
 - Q1: Image Captioning with Vanilla RNNs ([**done**](https://github.com/xuwd11/cs231n_hws/blob/master/assignment3/RNN_Captioning.ipynb))
 - Q2: Image Captioning with LSTMs ([**done**](https://github.com/xuwd11/cs231n_hws/blob/master/assignment3/LSTM_Captioning.ipynb))
-- Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images ([PyTorch **done**](https://github.com/xuwd11/cs231n_hws/blob/master/assignment3/NetworkVisualization-PyTorch.ipynb))
-- Q4: Style Transfer ([PyTorch **done**](https://github.com/xuwd11/cs231n_hws/blob/master/assignment3/StyleTransfer-PyTorch.ipynb))
-- Q5: Generative Adversarial Networks ([PyTorch **done**](https://github.com/xuwd11/cs231n_hws/blob/master/assignment3/GANs-PyTorch.ipynb))
+- Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images ([PyTorch **done**](https://github.com/xuwd11/cs231n_hws/blob/master/assignment3/NetworkVisualization-PyTorch.ipynb) / [TensorFlow **done**](https://github.com/xuwd11/cs231n_hws/blob/master/assignment3/NetworkVisualization-TensorFlow.ipynb))
+- Q4: Style Transfer ([PyTorch **done**](https://github.com/xuwd11/cs231n_hws/blob/master/assignment3/StyleTransfer-PyTorch.ipynb) / [TensorFlow **done**](https://github.com/xuwd11/cs231n_hws/blob/master/assignment3/StyleTransfer-TensorFlow.ipynb))
+- Q5: Generative Adversarial Networks ([PyTorch **done**](https://github.com/xuwd11/cs231n_hws/blob/master/assignment3/GANs-PyTorch.ipynb) / [TensorFlow **done**](https://github.com/xuwd11/cs231n_hws/blob/master/assignment3/GANs-TensorFlow.ipynb))
